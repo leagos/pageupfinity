@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71ec92df.css",
+    "main.js": "/static/js/main.b2ed8e4e.js",
+    "static/media/Fundo_Cinza_green.png": "/static/media/Fundo_Cinza_green.b9986afee24e6049d41b.png",
+    "static/media/Fundo_Cinza.png": "/static/media/Fundo_Cinza.3ab5b1126290dc66de9e.png",
+    "index.html": "/index.html",
+    "main.71ec92df.css.map": "/static/css/main.71ec92df.css.map",
+    "main.b2ed8e4e.js.map": "/static/js/main.b2ed8e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ec92df.css",
+    "static/js/main.b2ed8e4e.js"
+  ]
+}
